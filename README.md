@@ -86,17 +86,4 @@ Follow the steps below to set up the project environment:
 ## Validation  
 - Results and confusion matrix are generated and stored in `/content/runs/detect/train2/`.  
 
-### Sample Outputs  
-- Training Results:  
-  ![Training Results](runs/detect/train2/results.png)  
 
-- Confusion Matrix:  
-  ![Confusion Matrix](runs/detect/train2/confusion_matrix.png)  
-
-- Label Map:  
-  ![Label Map](runs/detect/train2/labels.jpg)  
-
-## Prediction and Results  
-The trained model predicts waste in the test dataset and generates predictions as images stored in `/content/runs/detect/predict/`. Below is an example:  
-![Prediction Example](runs/detect/predict/sample.jpg)  
----
