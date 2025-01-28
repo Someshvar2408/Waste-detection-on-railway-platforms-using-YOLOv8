@@ -1,7 +1,7 @@
 
 # Waste Detection on Railway Platforms Using YOLOv8  
 
-This repository contains the code, datasets, and resources for detecting waste on railway platforms in Chennai, India. The project leverages a video dataset converted into frames and processed using the YOLOv8 object detection framework for accurate and efficient waste detection.  
+This repository contains the code for detecting waste on railway platforms in Chennai, India. The project leverages a video dataset converted into frames and processed using the YOLOv8 object detection framework for accurate and efficient waste detection.  
 
 ## Table of Contents  
 - [Introduction](#introduction)  
